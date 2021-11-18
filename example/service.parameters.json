@@ -4,13 +4,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "publisherEmail": {
-            "value": "admin@contoso.com"
+            "value": "m.mujtaba.shareef@gmail.com"
         },
         "publisherName": {
-            "value": "Contoso"
+            "value": "Mujtaba"
         },
         "ApimServiceName": {
-            "value": "contosoapim-dev"
+            "value": "mujtaba-test-apim"
         }
     }
 }
